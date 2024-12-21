@@ -1,0 +1,25 @@
+/*div{
+    background-color: yellow;
+    width: 120px;
+    height: auto;
+    border: 1px solid green
+}
+
+p{
+    margin:0;
+    margin-inline: 20px 40px;
+    background-color: tan;
+}
+
+.verticaExample{
+    writing-mode:vertical-lr;
+}*/
+
+div{
+    width: 120px;
+    height: 120px;
+}
+
+.exampleText{
+    margin-top: 40em;
+}
